@@ -1,12 +1,14 @@
 # Business Problem
-## Mayapada Hospital Patients Analysis
-Madkhan Kamal
 
-This is my client, Mayapada Hospital. A popular hospital in South Jakarta, Indonesia. They want to expand the hospitals all around the State of Jakarta. Board ask me to mapping the patients data they have. Here are the problem:
-- Does the demography of an area matters?
-- Are any neighborhoods similar based on the type of patient?
-- Any strong correlation on patient profiles?
-- What kind of a service is more popular in a locality?
+People of all kinds from around the world flock to London, UK with some of these them aspiring to make this remarkable place a home of their own. With varying budgets and needs, people find it very hard to find a suitable place and neighborhood to accommodate them and their families. Due to high cost of living and other multiple issues, London housing has been struggling. With the inevitable Brexit, the problem has further compounded. A potential client aspiring to buy a suitable property would like to become knowledgeable about the ongoing pricing to make a concious decision. Further, he/ she would like to consider several factors like proximity to schools, medical care, restaurants to accommodate his/ her familial needs.
 
-With these questions in mind we will try to find out the factors that would affect opening of a new hospitals in
-a locality.
+With government provided authentic data on London properties coupled with data science techniques, one can make derive the useful information about current pricing in different localities of London while considering other factors of his choice. This would help the potential client to make an informed decision about buying a suitable property. 
+
+##Target audience: 
+Potential clients looks to buy suitable property in London but are skeptical due to lack of knowledge and volatile market conditions.
+
+##Stakeholders: 
+1.	Government of UK
+2.	Sellers
+3.	Buyers
+4.	Real estate agents

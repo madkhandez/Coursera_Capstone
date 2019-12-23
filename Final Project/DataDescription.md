@@ -1,15 +1,58 @@
 #Data Desciption
-## Mayapada Hospital Patients Analysis
-Madkhan Kamal
+
+Following sources of data are used while executing the Capstone Project: -
+
+##Open Data published by Government of UK under the section HM Land Registry: Price Paid Data
+
+Type of data: -
+Dataset in form of CSV file
+
+Duration: - 
+August 2018 data
+
+Description of the dataset: -
+Price Paid Data includes information on all property sales in England and Wales that are sold for full market value and are lodged with us for registration.
+
+The dataset includes the transactions received at HM Land Registry in the period from the first to the last day of August 2018.
+
+This dataset was downloaded and later hosted on https://labs.cognitiveclass.ai/ for ease of use.
+
+Source: -
+http://landregistry.data.gov.uk/
 
 
-The source used for this project will be from :
-1. Patient database from existing hospital
-2. Coordinates (geocoder)
+##Google Maps Geocoding API 
 
-From the source above, the resulted data will be used to solve the problem are:
-1. Neighborhood : collection of regional data involved state, latitude, longitude. That will be a master data.
-2. Patient profiles : the basic information of patient such as regional, sex, dob, and location (lat,long) that will be clustering and correlating to neighborhood data.
-3. Patient visit histories : the infomation about patient's transaction in hospital, that will be main data to analyze to solve the problem
+Type of data: -
+JSON
 
-From data above, it has therefore become important to study the demography of a location, patients demography, demand and behaviour of healthcare. These kind of analysis can be done using the data, by studying the complicated factors.
+Duration: - 
+N/A
+
+Description of the data: -
+Location coordinates obtained by Gmaps API calls.
+
+Location Information obtained from Price Paid Dataset is used to obtain the location coordinates from Google Maps.
+
+A separate Python script has been developed to extract the unique street names, district names from the Price Paid Dataset and embed those in the GMaps API calls to obtain the required information.
+
+Source: -
+Google Cloud Platform/ Google Maps
+
+
+##Foursquare location data
+
+Type of data: -
+JSON
+
+Duration: - 
+N/A
+
+Description of the data: -
+Location coordinates obtained by Foursquare API calls.
+
+To determine the proximity of various amenities as per the client’s requirement, Foursquare location data is used.
+
+Source: -
+https://foursquare.com/
+
