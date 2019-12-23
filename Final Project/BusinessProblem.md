@@ -4,10 +4,10 @@ People of all kinds from around the world flock to London, UK with some of these
 
 With government provided authentic data on London properties coupled with data science techniques, one can make derive the useful information about current pricing in different localities of London while considering other factors of his choice. This would help the potential client to make an informed decision about buying a suitable property. 
 
-##Target audience: 
+## Target audience: 
 Potential clients looks to buy suitable property in London but are skeptical due to lack of knowledge and volatile market conditions.
 
-##Stakeholders: 
+## Stakeholders: 
 1.	Government of UK
 2.	Sellers
 3.	Buyers
