@@ -1,8 +1,8 @@
-#Data Desciption
+# Data Desciption
 
 Following sources of data are used while executing the Capstone Project: -
 
-##Open Data published by Government of UK under the section HM Land Registry: Price Paid Data
+## Open Data published by Government of UK under the section HM Land Registry: Price Paid Data
 
 Type of data: -
 Dataset in form of CSV file
@@ -21,7 +21,7 @@ Source: -
 http://landregistry.data.gov.uk/
 
 
-##Google Maps Geocoding API 
+## Google Maps Geocoding API 
 
 Type of data: -
 JSON
@@ -40,7 +40,7 @@ Source: -
 Google Cloud Platform/ Google Maps
 
 
-##Foursquare location data
+## Foursquare location data
 
 Type of data: -
 JSON
