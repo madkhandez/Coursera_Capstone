@@ -1,6 +1,6 @@
 # **IBM Applied Data Science Capstone \- Final Project**
 
-This repository contains the files for the Final Project of the **IBM Applied Data Science Capstone** course on Coursera, also known as *The Battle of the Neighborhoods*.
+This repository contains the files for my Final Project of the **IBM Applied Data Science Certification**, also known as *The Battle of the Neighborhoods*.
 
 ## **Project Description**
 
